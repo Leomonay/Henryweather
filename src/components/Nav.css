@@ -1,0 +1,33 @@
+#logoHenry {
+  margin-right: 10px;
+  height: 30px;
+}
+.izq{
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+.barra{
+	display:flex;
+	color:white;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #17202A;
+	padding:5px;
+}
+input{
+	margin-left:5px;
+	border-radius: 5px;
+
+}
+.boton{
+	background-color: green;
+	color:white;
+	text-align: center;
+	font-size: 0.9rem;
+	padding-bottom:5px;	
+}
+.boton:hover{
+		background-color: black;
+		transition-duration: 1s;
+	}
